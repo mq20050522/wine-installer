@@ -1,5 +1,6 @@
 # wine-installer
 A script that automatically installs wine version 6 on Deepin 20 and Debian 10. \
+Created by: 谦言谦语\
 Supported Operating Systems: \
 ----------\
 Deepin 20\
